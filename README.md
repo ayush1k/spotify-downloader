@@ -18,16 +18,6 @@ A Google Colab notebook that downloads Spotify playlists, albums, or tracks as l
 
 ---
 
-## Open in Colab
-
-Click the badge below to open the notebook directly in Google Colab:
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<your-username>/<your-repo>/blob/main/Spotify_Playlist_Downloader.ipynb)
-
-> Replace `<your-username>` and `<your-repo>` with your actual GitHub details.
-
----
-
 ## How to Use
 
 1. **Open the notebook in Colab** using the badge above (or upload the `.ipynb` file manually).
